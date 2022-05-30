@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hi，
-
-我的统计：   
+Github数据统计：   
      
 [![elite 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=elite28&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)    
 
